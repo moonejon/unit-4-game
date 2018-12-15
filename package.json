@@ -1,0 +1,23 @@
+{
+  "name": "unit-4-game",
+  "version": "1.0.0",
+  "description": "UT Coding Bootcamp - Unit 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonejon/unit-4-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonejon/unit-4-game/issues"
+  },
+  "homepage": "https://github.com/moonejon/unit-4-game#readme",
+  "devDependencies": {
+    "tailwindcss": "^0.7.3"
+  }
+}
